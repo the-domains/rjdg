@@ -1,0 +1,28 @@
+name: RJDG
+favicon: null
+layout_spectrum: 0.6058479722123593
+typography_spectrum: 0.23429712420329452
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.29724076599814
+  lightness: 0.048378087813034654
+  saturation: 0.19939084257930517
+  rhythmicContrast: 0.9536476572975516
+purpose: []
